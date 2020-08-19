@@ -1,6 +1,6 @@
-### Hi there 👋
-
-[![Header](https://github.com/eclipsemooney/eclipsemooney/master/img/logo.png "Header")](https://some-url.dev/)
+### Jay Mooney
+### e: jay.mooney@eclipse.tech
+### p: 406.249.0000
 
 [![Header](https://github.com/eclipsemooney/eclipsemooney/blob/master/img/logo.png "Header")](https://some-url.dev/)
 
