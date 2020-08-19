@@ -3,7 +3,7 @@
 ---
 
 <p>
-   <a href="https://eclipse.tech"><img width="75" align='left' src="https://github.com/eclipsemooney/eclipsemooney/blob/master/img/logo.png?raw=true"></a>
+   <a href="https://eclipse.tech" target="__blank"><img width="75" align='left' src="https://github.com/eclipsemooney/eclipsemooney/blob/master/img/logo.png?raw=true"></a>
 </p>
 
 ### Jay Mooney
